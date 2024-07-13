@@ -1,0 +1,7 @@
+Flask
+flask-cors
+transformers
+deepface
+PyMuPDF
+beautifulsoup4
+requests
